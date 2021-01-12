@@ -27,21 +27,20 @@ parts for Perl 5. As a result, the source is sometimes ugly.
 
 ### Source Code
 
-* [GitHub](https://github.com/sciurius/dusage)
+- [GitHub](https://github.com/sciurius/dusage)
 
 ## Issue Tracking
 
-* Please use the GitHub issue tracker.
+- Please use the GitHub issue tracker.
 
 ## Requirements
 
-* Perl version 5 or higher
+- Perl version 5 or higher
 
 ## Author
 
-* [Johan Vromans](https://johan.vromans.org/)
+- [Johan Vromans](https://johan.vromans.org/)
 
 ## License
 
 This source code can be used on the same licensing terms as Perl.
-
