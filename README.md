@@ -1,4 +1,6 @@
 # dusage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjohnsonjh%2Fdusage.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjohnsonjh%2Fdusage?ref=badge_shield)
+
 
 `dusage` is a utility to generate disk space usage reports.
 
@@ -43,3 +45,6 @@ Perl 5. As a result, the source is sometimes ugly.
 ## License
 
 This source code can be used on the same licensing terms as Perl.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjohnsonjh%2Fdusage.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjohnsonjh%2Fdusage?ref=badge_large)
